@@ -134,3 +134,8 @@ threading.active_count() - 1
 - Add exception handling
 - Implement encryption (SSL/TLS)
 - **Convert into a controlled remote command execution lab (for cybersecurity learning)**
+
+---
+
+### Reference
+https://docs.python.org/3/library/socket.html#creating-sockets
